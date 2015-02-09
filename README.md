@@ -1,0 +1,2 @@
+# regular
+Standard Translation
